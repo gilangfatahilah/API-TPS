@@ -1,4 +1,4 @@
-const db = require("../model");
+const db = require("../model/index");
 const data = db.data
 
 
